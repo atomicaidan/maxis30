@@ -1,0 +1,27 @@
+/* Place your CSS styles in this file */
+
+
+
+h1 {
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: normal;
+    color: greenyellow;
+}
+
+p {
+    color: yellow;
+}
+
+div {
+    color: #CD62FF;
+
+}
+
+img {
+  border: 5px dotted #FF4118;
+}
+
+body {
+  background-color: black;
+}
